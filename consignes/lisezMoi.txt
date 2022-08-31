@@ -1,0 +1,48 @@
+Faction Front: Responsive obligatoire
+Faction Back: Ajoute un search fonctionnel
+Faction Designer: (theme dark)
+
+le capitaine endormis refis un rêve, un cauchemar... Il était à nouveau confronté aux pokémons, mais cette fois-ci, c'était les pokémons de la génération 2....
+
+
+Créer un dossier de travail (quête 9)
+
+Créer un CRUD: create,read,update,delete
+Affiche tout les pokémons de la région de Johto (génération 2)
+Affiche les 8 champions de la région de Johto (génération 2)
+
+
+Utilise bootstrap = Le design est libre
+Le code est libre, tout dois être fonctionnel
+Créer une page d'accueil (jumbotron)
+
+    header: (image-jointe)
+        Bouton Champion: pour afficher les champions
+        Bouton Pokémon: pour afficher les pokémons
+        Bouton Ajoute un pokémon: pour ajouter un pokémon
+        Bouton Ajoute un champion: pour ajouter un champion
+
+ReadChampion = lorsque tu clique sur un champion
+    affiche les informations du champion (image-jointe)
+    affiche le bouton supprimer => redirige vers une pop-up (image-jointe)
+    affiche le bouton modifier => redirige vers le formulaire update (image-jointe)
+
+ReadPokémon = lorsque tu clique sur un pokémon
+    affiche les informations du pokémon (image-jointe)
+    affiche le bouton supprimer => redirige vers une pop-up (image-jointe)
+    affiche le bouton modifier => redirige vers le formulaire update (image-jointe)
+
+Footer: copyright 
+
+base de données: image ci jointes
+champion = id, ville, champion, type, badge, image, created_at, modified_at
+pokemon = id,numero,first_name,type1,type2,image,created_at,modified_at
+
+
+Préviens moi
+Vas sur le site Github.com
+Créer un nouveau référentiel privé
+Nom du référentiel: "quete9"
+Upload ton travail
+
+ENJOY
